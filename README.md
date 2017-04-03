@@ -42,6 +42,9 @@ A list of papers and other resources on General Adversarial (Neural) Networks
 - Generative Adversarial Networks by Ian Goodfellow [[Video]](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 - Tutorial on Generative Adversarial Networks by Mark Chang [[Video]](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU)
 
+# Code
+- Cleverhans: A library for benchmarking vulnerability to adversarial examples [[Code]](https://github.com/openai/cleverhans) [[Blog]](http://cleverhans.io/)
+
 ## Unsorted
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_1.pdf)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
@@ -84,20 +87,22 @@ A list of papers and other resources on General Adversarial (Neural) Networks
 - Steganographic Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05502)
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN [[arXiv]](https://arxiv.org/abs/1703.06029)
-- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/abs/1506.05751)
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/abs/1506.05751) [[Code]](https://github.com/facebook/eyescream) [[Blog]](http://soumith.ch/eyescream/) 
 - Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782)
 - Adversarially Learned Inference [[arXiv]](https://arxiv.org/abs/1606.00704)
 - Training generative neural networks via Maximum Mean Discrepancy optimization [[arXiv]](https://arxiv.org/abs/1505.03906)
 - Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/goodfeli/adversarial)
 - Explaining and Harnessing Adversarial Examples [[arXiv]](https://arxiv.org/abs/1412.6572)
-- Generative Moment Matching Networks [[arXiv]](https://arxiv.org/abs/1502.02761)
+- Generative Moment Matching Networks [[arXiv]](https://arxiv.org/abs/1502.02761) [[Code]](https://github.com/yujiali/gmmn)
 - Adversarial Autoencoders [[arXiv]](https://arxiv.org/abs/1511.05644)
 - Conditional Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1411.1784)
-- Deep multi-scale video prediction beyond mean square error [[arXiv]](https://arxiv.org/abs/1511.05440)
+- Deep multi-scale video prediction beyond mean square error [[arXiv]](https://arxiv.org/abs/1511.05440) [[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
 - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [[arXiv]](https://arxiv.org/abs/1606.00709)
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434)
-- Generative Adversarial Text to Image Synthesis [[arXiv]](https://arxiv.org/abs/1605.05396)
-- Improved Techniques for Training GANs [[arXiv]](https://arxiv.org/abs/1606.03498)
+- Generative Adversarial Text to Image Synthesis [[arXiv]](https://arxiv.org/abs/1605.05396) [[Code]](https://github.com/paarthneekhara/text-to-image)
+- Improved Techniques for Training GANs [[arXiv]](https://arxiv.org/abs/1606.03498) [[Code]](https://github.com/openai/improved-gan)
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code) [[Code](https://github.com/pytorch/examples/tree/master/dcgan) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow) [[Code]](https://github.com/soumith/dcgan.torch) [[Code]](https://github.com/jacobgil/keras-dcgan) 
 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1609.04802)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv]](https://arxiv.org/abs/1609.05473)
+- Interactive Image Generation via Generative Adversarial Networks
+- Generative Visual Manipulation on the Natural Image Manifold [[Project]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [[Youtube]](https://youtu.be/9c4z6YsBGQ0) [[Paper]](https://arxiv.org/abs/1609.03552) [[Code]](https://github.com/junyanz/iGAN)
