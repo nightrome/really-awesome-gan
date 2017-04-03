@@ -1,4 +1,4 @@
-# awesome-gan
+# really-awesome-gan
 A list of papers and other resources on General Adversarial (Neural) Networks.
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com)
