@@ -5,9 +5,11 @@ A list of papers and other resources on General Adversarial (Neural) Networks
 - NIPS 2016 Workshop on Adversarial Training [[Web]](https://sites.google.com/site/nips2016adversarial/) [[Blog]](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/)
 
 # Tutorials & Blogs
+- NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.00160)
 - OpenAI - Generative Models [[Blog]](https://openai.com/blog/generative-models/)
 - On the intuition behind deep learning & GANs — towards a fundamental understanding [[Blog]](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
 - SimGANs - a game changer in unsupervised learning, self driving cars, and more [[Blog]](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
+- How to Train a GAN? Tips and tricks to make GANs work [[Blog]](https://github.com/soumith/ganhacks)
 
 # Papers
 ## Theory
@@ -28,12 +30,17 @@ A list of papers and other resources on General Adversarial (Neural) Networks
 - Conditional generative adversarial nets for convolutional face generation [[Paper]](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
 - Full Resolution Image Compression with Recurrent Neural Networks [[arXiv]](https://arxiv.org/abs/1608.05148)
 - RenderGAN: Generating Realistic Labeled Data [[arXiv]](https://arxiv.org/abs/1611.01331)
+- Image-to-Image Translation with Conditional Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/phillipi/pix2pix)
 
 ## Applied Other
 - MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions [[arXiv]](https://arxiv.org/abs/1703.10847)
 
 ## Humor
 - Stopping GAN Violence: Generative Unadversarial Networks [[arXiv]](https://arxiv.org/abs/1703.02528)
+
+# Videos
+- Generative Adversarial Networks by Ian Goodfellow [[Video]](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
+- Tutorial on Generative Adversarial Networks by Mark Chang [[Video]](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU)
 
 ## Unsorted
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_1.pdf)
@@ -81,7 +88,7 @@ A list of papers and other resources on General Adversarial (Neural) Networks
 - Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782)
 - Adversarially Learned Inference [[arXiv]](https://arxiv.org/abs/1606.00704)
 - Training generative neural networks via Maximum Mean Discrepancy optimization [[arXiv]](https://arxiv.org/abs/1505.03906)
-- Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1406.2661)
+- Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/goodfeli/adversarial)
 - Explaining and Harnessing Adversarial Examples [[arXiv]](https://arxiv.org/abs/1412.6572)
 - Generative Moment Matching Networks [[arXiv]](https://arxiv.org/abs/1502.02761)
 - Adversarial Autoencoders [[arXiv]](https://arxiv.org/abs/1511.05644)
@@ -91,4 +98,6 @@ A list of papers and other resources on General Adversarial (Neural) Networks
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434)
 - Generative Adversarial Text to Image Synthesis [[arXiv]](https://arxiv.org/abs/1605.05396)
 - Improved Techniques for Training GANs [[arXiv]](https://arxiv.org/abs/1606.03498)
-- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code)
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code) [[Code](https://github.com/pytorch/examples/tree/master/dcgan) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow) [[Code]](https://github.com/soumith/dcgan.torch) [[Code]](https://github.com/jacobgil/keras-dcgan) 
+- Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1609.04802)
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv]](https://arxiv.org/abs/1609.05473)
