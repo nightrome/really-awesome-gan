@@ -50,6 +50,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Simple Black-Box Adversarial Perturbations for Deep Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_11.pdf)
 - Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.04357)
 - Training generative neural networks via Maximum Mean Discrepancy optimization [[arXiv]](https://arxiv.org/abs/1505.03906)
+- Triple Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1703.02291)
 - Unrolled Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.02163)
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code) [[Code](https://github.com/pytorch/examples/tree/master/dcgan) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow) [[Code]](https://github.com/soumith/dcgan.torch) [[Code]](https://github.com/jacobgil/keras-dcgan)
 - Wasserstein GAN [[arXiv]](https://arxiv.org/abs/1701.07875) [[Code]](https://github.com/martinarjovsky/WassersteinGAN)
