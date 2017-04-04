@@ -3,6 +3,17 @@ A list of papers and other resources on General Adversarial (Neural) Networks.
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation).
 
+## Overview
+- [Workshops](#workshops)
+- [Tutorials & Blogs](#tutorials--blogs)
+- [Papers](#papers)
+  - [Theory & Machine Learning](#theory--machine-learning)
+  - [Applied Vision](#applied-vision)
+  - [Applied Other](#applied-other)
+  - [Humor](#humor)
+- [Videos](#videos)
+- [Code](#code)
+
 # Workshops
 - NIPS 2016 Workshop on Adversarial Training [[Web]](https://sites.google.com/site/nips2016adversarial/) [[Blog]](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/)
 
