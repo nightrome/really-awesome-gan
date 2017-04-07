@@ -75,6 +75,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/abs/1506.05751) [[Code]](https://github.com/facebook/eyescream) [[Blog]](http://soumith.ch/eyescream/)
 - Deep multi-scale video prediction beyond mean square error [[arXiv]](https://arxiv.org/abs/1511.05440) [[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
 - Full Resolution Image Compression with Recurrent Neural Networks [[arXiv]](https://arxiv.org/abs/1608.05148)
+- Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1704.01705.pdf)
 - Generative Adversarial Text to Image Synthesis [[arXiv]](https://arxiv.org/abs/1605.05396) [[Code]](https://github.com/paarthneekhara/text-to-image)
 - Generative Visual Manipulation on the Natural Image Manifold [[Project]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [[Youtube]](https://youtu.be/9c4z6YsBGQ0) [[Paper]](https://arxiv.org/abs/1609.03552) [[Code]](https://github.com/junyanz/iGAN)
 - Image De-raining Using a Conditional Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1701.05957)
