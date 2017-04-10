@@ -30,6 +30,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
 - Adversarial Autoencoders [[arXiv]](https://arxiv.org/abs/1511.05644)
 - Adversarial Discriminative Domain Adaptation [[arXiv]](https://arxiv.org/abs/1702.05464)
+- Adversarial Generator-Encoder Networks [[arXiv]](https://arxiv.org/pdf/1704.02304.pdf)
 - Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782)
 - Adversarially Learned Inference [[arXiv]](https://arxiv.org/abs/1606.00704)
 - An Adversarial Regularisation for Semi-Supervised Training of Structured Output Neural Networks [[arXiv]](https://arxiv.org/abs/1702.02382)
