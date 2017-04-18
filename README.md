@@ -116,7 +116,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/1605.07725) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv]](https://arxiv.org/abs/1610.06918) [[Blog]](https://blog.acolyer.org/2017/02/10/learning-to-protect-communications-with-adversarial-neural-cryptography/)
 - MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions [[arXiv]](https://arxiv.org/abs/1703.10847)
-- Reconstruction of three-dimensional porous media using generative adversarial neural networks [[arXiv]](https://arxiv.org/abs/1704.03225)
+- Reconstruction of three-dimensional porous media using generative adversarial neural networks [[arXiv]](https://arxiv.org/abs/1704.03225) [[Code]](https://github.com/LukasMosser/PorousMediaGan)
 - Semi-supervised Learning of Compact Document Representations with Deep Networks [[Paper]](http://www.cs.nyu.edu/~ranzato/publications/ranzato-icml08.pdf)
 - Steganographic Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05502)
 
