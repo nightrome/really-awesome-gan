@@ -88,6 +88,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 ## Applied Vision
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer [[arXiv]](https://arxiv.org/abs/1702.08014)
+- Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arXiv]](https://arxiv.org/pdf/1705.00389.pdf)
 - Adversarial Training For Sketch Retrieval [[arXiv]](https://arxiv.org/abs/1607.02748)
 - Age Progression / Regression by Conditional Adversarial Autoencoder [[arXiv]](https://arxiv.org/abs/1702.08423)
 - Amortised MAP Inference for Image Super-resolution [[arXiv]](https://arxiv.org/abs/1610.04490)
