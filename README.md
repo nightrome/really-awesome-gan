@@ -93,6 +93,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Age Progression / Regression by Conditional Adversarial Autoencoder [[arXiv]](https://arxiv.org/abs/1702.08423)
 - Amortised MAP Inference for Image Super-resolution [[arXiv]](https://arxiv.org/abs/1610.04490)
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs [[arXiv]](https://arxiv.org/abs/1702.03410)
+- Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1705.01908)
 - Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis [[arXiv]](https://arxiv.org/abs/1704.04086)
 - Conditional generative adversarial nets for convolutional face generation [[Paper]](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
 - Conditional Image Synthesis with Auxiliary Classifier GANs [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [[arXiv]](https://arxiv.org/abs/1610.09585) [[Code]](https://github.com/wiseodd/generative-models)
