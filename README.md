@@ -117,6 +117,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling [[arXiv]](https://arxiv.org/abs/1610.07584)
 - Multi-view Generative Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_13.pdf)
 - Neural Photo Editing with Introspective Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_15.pdf) [[arXiv]](https://arxiv.org/abs/1609.07093)
+- Outline Colorization through Tandem Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.08834)
 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1609.04802)
 - Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1604.04382)
 - Recurrent Topic-Transition GAN for Visual Paragraph Generation [[arXiv]](https://arxiv.org/abs/1703.07022)
