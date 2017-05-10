@@ -57,6 +57,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Generative Adversarial Parallelization [[arXiv]](https://arxiv.org/abs/1612.04021) [[Code]](https://github.com/wiseodd/generative-models)
 - Generative Adversarial Residual Pairwise Networks for One Shot Learning [[arXiv]](https://arxiv.org/abs/1703.08033)
 - Generative Adversarial Structured Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_14.pdf)
+- Generative Cooperative Net for Image Generation and Data Augmentation [[arXiv]](https://arxiv.org/abs/1705.02887)
 - Generative Moment Matching Networks [[arXiv]](https://arxiv.org/abs/1502.02761) [[Code]](https://github.com/yujiali/gmmn)
 - Geometric GAN [[arXiv]](https://arxiv.org/abs/1705.02894)
 - Improved Techniques for Training GANs [[arXiv]](https://arxiv.org/abs/1606.03498) [[Code]](https://github.com/openai/improved-gan)
