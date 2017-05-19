@@ -67,6 +67,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Inverting The Generator Of A Generative Adversarial Network [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_9.pdf)
 - Learning in Implicit Generative Models [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_10.pdf)
 - Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05192) [[Code]](https://github.com/wiseodd/generative-models)
+- Learning Texture Manifolds with the Periodic Spatial GAN [[arXiv]](https://arxiv.org/abs/1705.06566)
 - Least Squares Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.04076) [[Code]](https://github.com/wiseodd/generative-models)
 - Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities [[arXiv]](https://arxiv.org/abs/1701.06264)
 - LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation [[arXiv]](https://arxiv.org/abs/1703.01560)
