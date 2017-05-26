@@ -126,6 +126,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Invertible Conditional GANs for image editing [[arXiv]](https://arxiv.org/abs/1611.06355) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_8.pdf)
 - Learning a Driving Simulator [[arXiv]](https://arxiv.org/abs/1608.01230)
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling [[arXiv]](https://arxiv.org/abs/1610.07584)
+- Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv]](https://arxiv.org/abs/1612.07828)
 - Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05192)
 - Multi-view Generative Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_13.pdf)
 - Neural Photo Editing with Introspective Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_15.pdf) [[arXiv]](https://arxiv.org/abs/1609.07093)
