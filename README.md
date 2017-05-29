@@ -37,6 +37,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - An Adversarial Regularisation for Semi-Supervised Training of Structured Output Neural Networks [[arXiv]](https://arxiv.org/abs/1702.02382)
 - Associative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.06953)
 - Autoencoding beyond pixels using a learned similarity metric [[arXiv]](https://arxiv.org/abs/1512.09300)
+- Bayesian GAN [[arXiv]](https://arxiv.org/abs/1705.09558)
 - BEGAN: Boundary Equilibrium Generative Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_4.pdf) [[arXiv]](https://arxiv.org/abs/1703.10717) [[Code]](https://github.com/wiseodd/generative-models)
 - Boundary-Seeking Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.08431) [[Code]](https://github.com/wiseodd/generative-models)
 - Comparison of Maximum Likelihood and GAN-based training of Real NVPs [[arXiv]](https://arxiv.org/abs/1705.05263)
