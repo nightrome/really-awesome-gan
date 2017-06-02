@@ -3,6 +3,9 @@ A list of papers and other resources on General Adversarial (Neural) Networks.
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
 
+## Latest recommendation
+- Pose Guided Person Image Generation [[arXiv]](https://arxiv.org/abs/1705.09368)
+
 ## Overview
 - [Workshops](#workshops)
 - [Tutorials & Blogs](#tutorials--blogs)
@@ -112,8 +115,10 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Conditional Image Synthesis with Auxiliary Classifier GANs [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [[arXiv]](https://arxiv.org/abs/1610.09585) [[Code]](https://github.com/wiseodd/generative-models)
 - Contextual RNN-GANs for Abstract Reasoning Diagram Generation [[arXiv]](https://arxiv.org/abs/1609.09444)
 - CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training [[arXiv]](https://arxiv.org/abs/1703.10155)
+- Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI [[arXiv]](https://arxiv.org/abs/1706.00051)
 - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/abs/1506.05751) [[Code]](https://github.com/facebook/eyescream) [[Blog]](http://soumith.ch/eyescream/)
 - Deep multi-scale video prediction beyond mean square error [[arXiv]](https://arxiv.org/abs/1511.05440) [[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
+- Depth Structure Preserving Scene Image Generation [[arXiv]](https://arxiv.org/abs/1706.00212)
 - Deep Unsupervised Representation Learning for Remote Sensing Images [[arXiv]](https://arxiv.org/abs/1612.08879)
 - DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1704.02510) [[Code]](https://github.com/wiseodd/generative-models)
 - Face Aging With Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.01983)
@@ -135,10 +140,12 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv]](https://arxiv.org/abs/1612.07828)
 - Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05192)
 - Learning to Generate Chairs with Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1705.10413)
+- Megapixel Size Image Creation using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.00082)
 - Multi-view Generative Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_13.pdf)
 - Neural Photo Editing with Introspective Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_15.pdf) [[arXiv]](https://arxiv.org/abs/1609.07093)
 - Outline Colorization through Tandem Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.08834)
 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1609.04802)
+- Pose Guided Person Image Generation [[arXiv]](https://arxiv.org/abs/1705.09368)
 - Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1604.04382)
 - Recurrent Topic-Transition GAN for Visual Paragraph Generation [[arXiv]](https://arxiv.org/abs/1703.07022)
 - RenderGAN: Generating Realistic Labeled Data [[arXiv]](https://arxiv.org/abs/1611.01331)
