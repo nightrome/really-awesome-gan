@@ -87,6 +87,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Message Passing Multi-Agent GANs [[arXiv]](https://arxiv.org/abs/1612.01294)
 - Mode Regularized Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.02136) [[Code]](https://github.com/wiseodd/generative-models)
 - Multi-Agent Diverse Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.02906)
+- Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models [[arXiv]](https://arxiv.org/abs/1705.10843)
 - On the effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.03971)
 - On the Quantitative Analysis of Decoder-Based Generative Models [[arXiv]](https://arxiv.org/abs/1611.04273)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv]](https://arxiv.org/abs/1609.05473)
