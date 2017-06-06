@@ -90,6 +90,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models [[arXiv]](https://arxiv.org/abs/1705.10843)
 - On the effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.03971)
 - On the Quantitative Analysis of Decoder-Based Generative Models [[arXiv]](https://arxiv.org/abs/1611.04273)
+- PixelGAN Autoencoders [[arXiv]](https://arxiv.org/abs/1706.00531)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv]](https://arxiv.org/abs/1609.05473)
 - Simple Black-Box Adversarial Perturbations for Deep Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_11.pdf)
 - Softmax GAN [[arXiv]](https://arxiv.org/abs/1704.06191)
