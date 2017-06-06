@@ -56,7 +56,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Explaining and Harnessing Adversarial Examples [[arXiv]](https://arxiv.org/abs/1412.6572)
 - Flow-GAN: Bridging implicit and prescribed learning in generative models [[arXiv]](https://arxiv.org/abs/1705.08868)
 - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [[arXiv]](https://arxiv.org/abs/1606.00709) [[Code]](https://github.com/wiseodd/generative-models)
-- Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking [[arXiv]] (https://arxiv.org/abs/1704.04865)
+- Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking [[arXiv]](https://arxiv.org/abs/1704.04865)
 - Generalization and Equilibrium in Generative Adversarial Nets (GANs) [[arXiv]](https://arxiv.org/abs/1703.00573)
 - Generating images with recurrent adversarial networks [[arXiv]](https://arxiv.org/abs/1602.05110)
 - Generative Adversarial Nets with Labeled Data by Activation Maximization [[arXiv]](https://arxiv.org/abs/1703.02000)
