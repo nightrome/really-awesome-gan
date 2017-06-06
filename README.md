@@ -173,6 +173,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Other
 - Adversarial Generation of Natural Language [[arXiv]](https://arxiv.org/abs/1705.10929)
+- Adversarial Ranking for Language Generation [[arXiv]](https://arxiv.org/abs/1705.11001)
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/1605.07725) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
 - Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN [[arXiv]](https://arxiv.org/abs/1702.05983)
 - Generating Multi-label Discrete Electronic Health Records using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.06490)
