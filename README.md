@@ -180,6 +180,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/1605.07725) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
 - Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN [[arXiv]](https://arxiv.org/abs/1702.05983)
 - Generating Multi-label Discrete Electronic Health Records using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.06490)
+- Language Generation with Recurrent Generative Adversarial Networks without Pre-training [[arXiv]](https://arxiv.org/abs/1706.01399)
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv]](https://arxiv.org/abs/1610.06918) [[Blog]](https://blog.acolyer.org/2017/02/10/learning-to-protect-communications-with-adversarial-neural-cryptography/)
 - MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions [[arXiv]](https://arxiv.org/abs/1703.10847)
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks [[arXiv]](https://arxiv.org/abs/1704.03225) [[Code]](https://github.com/LukasMosser/PorousMediaGan)
