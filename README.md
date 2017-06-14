@@ -69,6 +69,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Generative Moment Matching Networks [[arXiv]](https://arxiv.org/abs/1502.02761) [[Code]](https://github.com/yujiali/gmmn)
 - Geometric GAN [[arXiv]](https://arxiv.org/abs/1705.02894)
 - Good Semi-supervised Learning that Requires a Bad GAN [[arXiv]](https://arxiv.org/abs/1705.09783)
+- Gradient descent GAN optimization is locally stable [[arXiv]](https://arxiv.org/abs/1706.04156)
 - How to Train Your DRAGAN [[arXiv]](https://arxiv.org/abs/1705.07215)
 - Improved Semi-supervised Learning with GANs using Manifold Invariances [[arXiv]](https://arxiv.org/abs/1705.08850)
 - Improved Techniques for Training GANs [[arXiv]](https://arxiv.org/abs/1606.03498) [[Code]](https://github.com/openai/improved-gan)
