@@ -191,6 +191,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - SEGAN: Speech Enhancement Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1703.09452)
 - Semi-supervised Learning of Compact Document Representations with Deep Networks [[Paper]](http://www.cs.nyu.edu/~ranzato/publications/ranzato-icml08.pdf)
 - Steganographic Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05502)
+- Towards Grounding Conceptual Spaces in Neural Representations [[arXiv]](https://arxiv.org/abs/1706.04825)
 
 ## Humor
 - Stopping GAN Violence: Generative Unadversarial Networks [[arXiv]](https://arxiv.org/abs/1703.02528)
