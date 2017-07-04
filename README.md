@@ -183,6 +183,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06390)
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
 - Unsupervised Cross-Domain Image Generation [[arXiv]](https://arxiv.org/abs/1611.02200)
+- Unsupervised Diverse Colorization via Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.06674)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
 
