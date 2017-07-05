@@ -140,6 +140,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Generative Adversarial Text to Image Synthesis [[arXiv]](https://arxiv.org/abs/1605.05396) [[Code]](https://github.com/paarthneekhara/text-to-image)
 - Generative Visual Manipulation on the Natural Image Manifold [[Project]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [[Youtube]](https://youtu.be/9c4z6YsBGQ0) [[Paper]](https://arxiv.org/abs/1609.03552) [[Code]](https://github.com/junyanz/iGAN)
 - GP-GAN: Towards Realistic High-Resolution Image Blending [[arXiv]](https://arxiv.org/abs/1703.07195)
+- High-Quality Face Image SR Using Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.00737)
 - Image De-raining Using a Conditional Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1701.05957)
 - Image Generation and Editing with Variational Info Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.04568)
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/phillipi/pix2pix)
