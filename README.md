@@ -3,8 +3,9 @@ A list of papers and other resources on General Adversarial (Neural) Networks.
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
 
-## Latest recommendation
+## Recommendations
 - Pose Guided Person Image Generation [[arXiv]](https://arxiv.org/abs/1705.09368)
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.10593)
 
 ## Overview
 - [Workshops](#workshops)
@@ -113,6 +114,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arXiv]](https://arxiv.org/pdf/1705.00389.pdf)
 - Adversarial Training For Sketch Retrieval [[arXiv]](https://arxiv.org/abs/1607.02748)
 - Age Progression / Regression by Conditional Adversarial Autoencoder [[arXiv]](https://arxiv.org/abs/1702.08423)
+- AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.01400)
 - Amortised MAP Inference for Image Super-resolution [[arXiv]](https://arxiv.org/abs/1610.04490)
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs [[arXiv]](https://arxiv.org/abs/1702.03410)
 - Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis [[arXiv]](https://arxiv.org/abs/1706.08789)
