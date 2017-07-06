@@ -28,6 +28,15 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - OpenAI - Generative Models [[Blog]](https://openai.com/blog/generative-models/)
 - SimGANs - a game changer in unsupervised learning, self driving cars, and more [[Blog]](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
 
+# Videos
+- Generative Adversarial Networks by Ian Goodfellow [[Video]](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
+- Tutorial on Generative Adversarial Networks by Mark Chang [[Video]](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU)
+
+# Code
+- Cleverhans: A library for benchmarking vulnerability to adversarial examples [[Code]](https://github.com/openai/cleverhans) [[Blog]](http://cleverhans.io/)
+- Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [[Blog]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [[Code]](https://github.com/devnag/pytorch-generative-adversarial-networks)
+- Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [[Code]](https://github.com/wiseodd/generative-models)
+
 # Papers
 ## Theory & Machine Learning
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/abs/1611.03852)
@@ -207,12 +216,3 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Humor
 - Stopping GAN Violence: Generative Unadversarial Networks [[arXiv]](https://arxiv.org/abs/1703.02528)
-
-# Videos
-- Generative Adversarial Networks by Ian Goodfellow [[Video]](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
-- Tutorial on Generative Adversarial Networks by Mark Chang [[Video]](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU)
-
-# Code
-- Cleverhans: A library for benchmarking vulnerability to adversarial examples [[Code]](https://github.com/openai/cleverhans) [[Blog]](http://cleverhans.io/)
-- Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [[Blog]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [[Code]](https://github.com/devnag/pytorch-generative-adversarial-networks)
-- Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [[Code]](https://github.com/wiseodd/generative-models)
