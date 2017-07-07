@@ -211,6 +211,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks [[arXiv]](https://arxiv.org/abs/1704.03225) [[Code]](https://github.com/LukasMosser/PorousMediaGan)
 - SEGAN: Speech Enhancement Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1703.09452)
 - Semi-supervised Learning of Compact Document Representations with Deep Networks [[Paper]](http://www.cs.nyu.edu/~ranzato/publications/ranzato-icml08.pdf)
+- SSGAN: Secure Steganography Based on Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.01613)
 - Steganographic Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05502)
 - Towards Grounding Conceptual Spaces in Neural Representations [[arXiv]](https://arxiv.org/abs/1706.04825)
 
