@@ -3,11 +3,8 @@ A list of papers and other resources on General Adversarial (Neural) Networks.
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
 
-## Recommendations
-- Pose Guided Person Image Generation [[arXiv]](https://arxiv.org/abs/1705.09368)
-- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.10593)
-
 ## Overview
+- [Recommendations](#recommendations)
 - [Workshops](#workshops)
 - [Tutorials & Blogs](#tutorials--blogs)
 - [Videos](#videos)
@@ -17,6 +14,14 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
   - [Applied Vision](#applied-vision)
   - [Applied Other](#applied-other)
   - [Humor](#humor)
+  
+## Recommendations
+<img src="http://it-caesar.com/github/beyond-face-rotation.png" alt="Beyond face rotation" width="100%">
+- Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis [[arXiv]](https://arxiv.org/abs/1704.04086)
+<img src="http://it-caesar.com/github/pose-guided-person.png" alt="Pose guided person" width="100%">
+- Pose Guided Person Image Generation [[arXiv]](https://arxiv.org/abs/1705.09368)
+<img src="http://it-caesar.com/github/cycle-gan.png" alt="Cycle GAN" width="100%">
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.10593)
 
 # Workshops
 - NIPS 2016 Workshop on Adversarial Training [[Web]](https://sites.google.com/site/nips2016adversarial/) [[Blog]](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/)
