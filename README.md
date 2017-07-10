@@ -31,6 +31,9 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - NIPS 2016 Workshop on Adversarial Training [[Web]](https://sites.google.com/site/nips2016adversarial/) [[Blog]](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/)
 
 # Tutorials & Blogs
+- Columbia Advanced Machine Learning Seminar
+  - New Progress on GAN Theory and Practice [[Blog]](https://casmls.github.io/general/2017/04/13/gan.html)
+  - Implicit Generative Models — What are you GAN-na do? [[Blog]](https://casmls.github.io/general/2017/05/24/ligm.html)
 - How to Train a GAN? Tips and tricks to make GANs work [[Blog]](https://github.com/soumith/ganhacks)
 - NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.00160)
 - On the intuition behind deep learning & GANs — towards a fundamental understanding [[Blog]](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
