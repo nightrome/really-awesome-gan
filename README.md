@@ -156,6 +156,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data [[arXiv]](https://arxiv.org/abs/1705.04932) [[Code]](https://github.com/Prinsphield/GeneGAN)
 - Generate Identity-Preserving Faces by Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.03227)
 - Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.01705)
+- Generative Adversarial Models for People Attribute Recognition in Surveillance [[arXiv]](https://arxiv.org/abs/1707.02240)
 - Generative Adversarial Networks for Multimodal Representation Learning in Video Hyperlinking [[arXiv]](https://arxiv.org/abs/1705.05103)
 - Generative Adversarial Text to Image Synthesis [[arXiv]](https://arxiv.org/abs/1605.05396) [[Code]](https://github.com/paarthneekhara/text-to-image)
 - Generative Visual Manipulation on the Natural Image Manifold [[Project]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [[Youtube]](https://youtu.be/9c4z6YsBGQ0) [[Paper]](https://arxiv.org/abs/1609.03552) [[Code]](https://github.com/junyanz/iGAN)
