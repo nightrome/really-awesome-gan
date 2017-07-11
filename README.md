@@ -187,6 +187,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1604.04382)
 - Recurrent Topic-Transition GAN for Visual Paragraph Generation [[arXiv]](https://arxiv.org/abs/1703.07022)
 - RenderGAN: Generating Realistic Labeled Data [[arXiv]](https://arxiv.org/abs/1611.01331)
+- Representation Learning and Adversarial Generation of 3D Point Clouds [[arXiv]](https://arxiv.org/abs/1707.02392)
 - Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.09318)
 - SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08788)
 - SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.01081v2)
