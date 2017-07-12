@@ -131,6 +131,8 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Vision
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
+- A step towards procedural terrain generation with GANs [[arXiv]](https://arxiv.org/abs/1707.03383)
+- Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[arXiv]](https://arxiv.org/abs/1707.03124)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer [[arXiv]](https://arxiv.org/abs/1702.08014)
 - Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arXiv]](https://arxiv.org/pdf/1705.00389.pdf)
 - Adversarial Training For Sketch Retrieval [[arXiv]](https://arxiv.org/abs/1607.02748)
