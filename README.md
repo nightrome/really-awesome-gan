@@ -147,6 +147,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Conditional generative adversarial nets for convolutional face generation [[Paper]](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
 - Conditional Image Synthesis with Auxiliary Classifier GANs [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [[arXiv]](https://arxiv.org/abs/1610.09585) [[Code]](https://github.com/wiseodd/generative-models)
 - Contextual RNN-GANs for Abstract Reasoning Diagram Generation [[arXiv]](https://arxiv.org/abs/1609.09444)
+- Creatism: A deep-learning photographer capable of creating professional work [[arXiv]](https://arxiv.org/abs/1707.03491)
 - CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training [[arXiv]](https://arxiv.org/abs/1703.10155)
 - Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI [[arXiv]](https://arxiv.org/abs/1706.00051)
 - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv]](https://arxiv.org/abs/1506.05751) [[Code]](https://github.com/facebook/eyescream) [[Blog]](http://soumith.ch/eyescream/)
