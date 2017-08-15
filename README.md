@@ -67,6 +67,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Bayesian Conditional Generative Adverserial Networks [[arXiv]](https://arxiv.org/abs/1706.05477)
 - Bayesian GAN [[arXiv]](https://arxiv.org/abs/1705.09558)
 - BEGAN: Boundary Equilibrium Generative Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_4.pdf) [[arXiv]](https://arxiv.org/abs/1703.10717) [[Code]](https://github.com/wiseodd/generative-models)
+- Binary Generative Adversarial Networks for Image Retrieval [[arXiv]](https://arxiv.org/abs/1708.04150)
 - Boundary-Seeking Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.08431) [[Code]](https://github.com/wiseodd/generative-models)
 - Comparison of Maximum Likelihood and GAN-based training of Real NVPs [[arXiv]](https://arxiv.org/abs/1705.05263)
 - Conditional CycleGAN for Attribute Guided Face Image Generation [[arXiv]](https://arxiv.org/abs/1705.09966)
