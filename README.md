@@ -173,6 +173,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.05392)
 - From source to target and back: symmetric bi-directional adaptive GAN [[arXiv]](https://arxiv.org/abs/1705.08824)
 - Full Resolution Image Compression with Recurrent Neural Networks [[arXiv]](https://arxiv.org/abs/1608.05148)
+- GANs for Biological Image Synthesis [[arXiv]](https://arxiv.org/abs/1708.04692)
 - GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data [[arXiv]](https://arxiv.org/abs/1705.04932) [[Code]](https://github.com/Prinsphield/GeneGAN)
 - Generate Identity-Preserving Faces by Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.03227)
 - Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.01705)
