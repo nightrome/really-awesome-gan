@@ -153,6 +153,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[arXiv]](https://arxiv.org/abs/1707.08037)
 - Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis [[arXiv]](https://arxiv.org/abs/1704.04086)
 - CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms [[arXiv]](https://arxiv.org/abs/1706.07068)
+- Conditional Adversarial Network for Semantic Segmentation of Brain Tumor [[arXiv]](https://arxiv.org/abs/1708.05227)
 - Conditional generative adversarial nets for convolutional face generation [[Paper]](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
 - Conditional Image Synthesis with Auxiliary Classifier GANs [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [[arXiv]](https://arxiv.org/abs/1610.09585) [[Code]](https://github.com/wiseodd/generative-models)
 - Contextual RNN-GANs for Abstract Reasoning Diagram Generation [[arXiv]](https://arxiv.org/abs/1609.09444)
