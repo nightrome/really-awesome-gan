@@ -224,6 +224,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1705.07904)
 - Semi-Latent GAN: Learning to generate and modify facial images from attributes [[arXiv]](https://arxiv.org/abs/1704.02166)
 - Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.06430)
+- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[arXiv]](https://arxiv.org/abs/1708.06453)
 - StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.03242)
 - Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN [[arXiv]](https://arxiv.org/abs/1706.03319)
 - Supervised Adversarial Networks for Image Saliency Detection [[arXiv]](https://arxiv.org/abs/1704.07242)
@@ -242,6 +243,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Unsupervised Cross-Domain Image Generation [[arXiv]](https://arxiv.org/abs/1611.02200)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.06674)
 - Unsupervised Visual Attribute Transfer with Reconfigurable Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.09798)
+- VIGAN: Missing View Imputation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.06724)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
 
