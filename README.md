@@ -242,6 +242,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
 - Unsupervised Cross-Domain Image Generation [[arXiv]](https://arxiv.org/abs/1611.02200)
 - Unsupervised Diverse Colorization via Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.06674)
+- Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05424)
 - Unsupervised Visual Attribute Transfer with Reconfigurable Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.09798)
 - VIGAN: Missing View Imputation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.06724)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
