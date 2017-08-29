@@ -137,6 +137,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Wasserstein GAN [[arXiv]](https://arxiv.org/abs/1701.07875) [[Code]](https://github.com/martinarjovsky/WassersteinGAN) [[Code]](https://github.com/wiseodd/generative-models)
 
 ## Applied Vision
+- 3D Object Reconstruction from a Single Depth View with Adversarial Learning [[arXiv]](https://arxiv.org/abs/1708.07969)
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
 - A step towards procedural terrain generation with GANs [[arXiv]](https://arxiv.org/abs/1707.03383) [[Code]](https://github.com/christopher-beckham/gan-heightmaps)
 - Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[arXiv]](https://arxiv.org/abs/1707.03124)
@@ -252,6 +253,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Adversarial Generation of Natural Language [[arXiv]](https://arxiv.org/abs/1705.10929)
 - Adversarial Ranking for Language Generation [[arXiv]](https://arxiv.org/abs/1705.11001)
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/1605.07725) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
+- ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity? [[arXiv]](https://arxiv.org/abs/1708.08227)
 - Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN [[arXiv]](https://arxiv.org/abs/1702.05983)
 - Generating Multi-label Discrete Electronic Health Records using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.06490)
 - Language Generation with Recurrent Generative Adversarial Networks without Pre-training [[arXiv]](https://arxiv.org/abs/1706.01399)
