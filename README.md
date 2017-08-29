@@ -190,7 +190,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Image De-raining Using a Conditional Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1701.05957)
 - Image Generation and Editing with Variational Info Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.04568)
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/phillipi/pix2pix)
-- Improved Adversarial Systems for 3D Object Generation and Reconstruction [[arXiv]](https://arxiv.org/abs/1707.09557)
+- Improved Adversarial Systems for 3D Object Generation and Reconstruction [[arXiv]](https://arxiv.org/abs/1707.09557) [[Code]](https://github.com/EdwardSmith1884/3D-IWGAN)
 - Imitating Driver Behavior with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.06699)
 - Interactive 3D Modeling with a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1706.05170)
 - Invertible Conditional GANs for image editing [[arXiv]](https://arxiv.org/abs/1611.06355) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_8.pdf)
