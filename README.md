@@ -143,6 +143,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Abnormal Event Detection in Videos using Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1708.09644)
 - Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[arXiv]](https://arxiv.org/abs/1707.03124)
 - Adversarial nets with perceptual losses for text-to-image synthesis [[arXiv]](https://arxiv.org/abs/1708.09321)
+- Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB [[arXiv]](https://arxiv.org/abs/1709.00265)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer [[arXiv]](https://arxiv.org/abs/1702.08014)
 - Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arXiv]](https://arxiv.org/pdf/1705.00389.pdf)
 - Adversarial Training For Sketch Retrieval [[arXiv]](https://arxiv.org/abs/1607.02748)
