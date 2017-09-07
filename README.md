@@ -242,6 +242,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Supervised Adversarial Networks for Image Saliency Detection [[arXiv]](https://arxiv.org/abs/1704.07242)
 - Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs) [[arXiv]](https://arxiv.org/abs/1707.09747)
 - Synthesizing Filamentary Structured Images with GANs [[arXiv]](https://arxiv.org/abs/1706.02185)
+- Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
 - TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1703.06412)
 - Temporal Generative Adversarial Nets with Singular Value Clipping [[arXiv]](https://arxiv.org/abs/1611.06624)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches [[arXiv]](https://arxiv.org/abs/1706.02823)
