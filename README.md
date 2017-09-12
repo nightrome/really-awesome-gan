@@ -3,7 +3,7 @@ A list of papers and other resources on Generative Adversarial (Neural) Networks
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
 
-**Note:** We just started the **COCO 2017 Stuff Segmentation Challenge** and invite everyone to participate. For more details, see: [cocodataset.org](http://cocodataset.org)
+**Announcement:** Starting from September 1 we are organizing the public [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org). Please consider participating. Winners will be announced at the [Joint COCO and Places Recognition](https://places-coco2017.github.io/) workshop at ICCV 2017.
 
 ## Overview
 - [Recommendations](#recommendations)
