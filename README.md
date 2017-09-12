@@ -202,6 +202,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Image Generation and Editing with Variational Info Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.04568)
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/phillipi/pix2pix)
 - Improved Adversarial Systems for 3D Object Generation and Reconstruction [[arXiv]](https://arxiv.org/abs/1707.09557) [[Code]](https://github.com/EdwardSmith1884/3D-IWGAN)
+- Improving Heterogeneous Face Recognition with Conditional Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.02848)
 - Imitating Driver Behavior with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.06699)
 - Interactive 3D Modeling with a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1706.05170)
 - Intraoperative Organ Motion Models with an Ensemble of Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.02255)
