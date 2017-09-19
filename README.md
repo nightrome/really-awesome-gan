@@ -221,6 +221,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Learning to Generate Chairs with Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1705.10413)
 - Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[arXiv]](https://arxiv.org/abs/1708.00961)
 - Megapixel Size Image Creation using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.00082)
+- Microscopy Cell Segmentation via Adversarial Neural Networks [[arXiv]](https://arxiv.org/abs/1709.05860)
 - MoCoGAN: Decomposing Motion and Content for Video Generation [[arXiv]](https://arxiv.org/abs/1707.04993)
 - Multi-view Generative Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_13.pdf)
 - Neural Photo Editing with Introspective Adversarial Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_15.pdf) [[arXiv]](https://arxiv.org/abs/1609.07093)
