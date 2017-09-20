@@ -282,6 +282,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Language Generation with Recurrent Generative Adversarial Networks without Pre-training [[arXiv]](https://arxiv.org/abs/1706.01399)
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv]](https://arxiv.org/abs/1610.06918) [[Blog]](https://blog.acolyer.org/2017/02/10/learning-to-protect-communications-with-adversarial-neural-cryptography/)
 - MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions [[arXiv]](https://arxiv.org/abs/1703.10847)
+- MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.06298)
 - Reconstruction of three-dimensional porous media using generative adversarial neural networks [[arXiv]](https://arxiv.org/abs/1704.03225) [[Code]](https://github.com/LukasMosser/PorousMediaGan)
 - SEGAN: Speech Enhancement Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1703.09452)
 - Semi-supervised Learning of Compact Document Representations with Deep Networks [[Paper]](http://www.cs.nyu.edu/~ranzato/publications/ranzato-icml08.pdf)
