@@ -73,6 +73,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Binary Generative Adversarial Networks for Image Retrieval [[arXiv]](https://arxiv.org/abs/1708.04150)
 - Boundary-Seeking Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.08431) [[Code]](https://github.com/wiseodd/generative-models)
 - CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training [[arXiv]](https://arxiv.org/abs/1709.02023)
+- Class-Splitting Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.07359)
 - Comparison of Maximum Likelihood and GAN-based training of Real NVPs [[arXiv]](https://arxiv.org/abs/1705.05263)
 - Conditional CycleGAN for Attribute Guided Face Image Generation [[arXiv]](https://arxiv.org/abs/1705.09966)
 - Conditional Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/wiseodd/generative-models)
