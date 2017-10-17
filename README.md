@@ -80,6 +80,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_1.pdf)
 - Continual Learning in Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1705.08395)
 - C-RNN-GAN: Continuous recurrent neural networks with adversarial training [[arXiv]](https://arxiv.org/abs/1611.09904)
+- CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning [[arXiv]](https://arxiv.org/abs/1710.05106)
 - Cooperative Training of Descriptor and Generator Networks [[arXiv]](https://arxiv.org/abs/1609.09408)
 - Coupled Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1606.07536) [[Code]](https://github.com/wiseodd/generative-models)
 - Dualing GANs [[arXiv]](https://arxiv.org/abs/1706.06216)
