@@ -5,13 +5,14 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 **Announcement:** Starting from September 1 we are organizing the public [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org). Please consider participating. Winners will be announced at the [Joint COCO and Places Recognition](https://places-coco2017.github.io/) workshop at ICCV 2017.
 
-## Overview
+## Contents
 - [Recommendations](#recommendations)
 - [Workshops](#workshops)
-- [Tutorials & Blogs](#tutorials--workshops--blogs)
+- [Tutorials & Workshops & Blogs](#tutorials--workshops--blogs)
 - [Videos](#videos)
 - [Code](#code)
 - [Papers](#papers)
+  - [Overview](#overview)
   - [Theory & Machine Learning](#theory--machine-learning)
   - [Applied Vision](#applied-vision)
   - [Applied Other](#applied-other)
