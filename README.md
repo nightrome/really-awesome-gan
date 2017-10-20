@@ -8,7 +8,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 ## Overview
 - [Recommendations](#recommendations)
 - [Workshops](#workshops)
-- [Tutorials & Blogs](#tutorials--blogs)
+- [Tutorials & Blogs](#tutorials--workshops--blogs)
 - [Videos](#videos)
 - [Code](#code)
 - [Papers](#papers)
@@ -29,15 +29,13 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 <img src="http://it-caesar.com/github/cycle-gan.png" alt="Cycle GAN"></li>
 </ul>
 
-# Workshops
-- NIPS 2016 Workshop on Adversarial Training [[Web]](https://sites.google.com/site/nips2016adversarial/) [[Blog]](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/)
-
-# Tutorials & Blogs
+# Tutorials & Workshops & Blogs
 - Columbia Advanced Machine Learning Seminar
   - New Progress on GAN Theory and Practice [[Blog]](https://casmls.github.io/general/2017/04/13/gan.html)
   - Implicit Generative Models — What are you GAN-na do? [[Blog]](https://casmls.github.io/general/2017/05/24/ligm.html)
 - How to Train a GAN? Tips and tricks to make GANs work [[Blog]](https://github.com/soumith/ganhacks)
 - NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.00160)
+- NIPS 2016 Workshop on Adversarial Training [[Web]](https://sites.google.com/site/nips2016adversarial/) [[Blog]](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/)
 - On the intuition behind deep learning & GANs — towards a fundamental understanding [[Blog]](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
 - OpenAI - Generative Models [[Blog]](https://openai.com/blog/generative-models/)
 - SimGANs - a game changer in unsupervised learning, self driving cars, and more [[Blog]](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
@@ -52,6 +50,9 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [[Code]](https://github.com/wiseodd/generative-models)
 
 # Papers
+## Overview
+- Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
+
 ## Theory & Machine Learning
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/abs/1611.03852)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
