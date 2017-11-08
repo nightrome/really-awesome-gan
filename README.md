@@ -3,7 +3,7 @@ A list of papers and other resources on Generative Adversarial (Neural) Networks
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
 
-**Announcement:** Starting from September 1 we are organizing the public [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org). Please consider participating. Winners will be announced at the [Joint COCO and Places Recognition](https://places-coco2017.github.io/) workshop at ICCV 2017.
+**NOTE:** Despite the enormous interest in this cite (~3000 visitors per month), I will no longer add new papers starting from November 2017. I feel that GANs have come from an exotic topic to the mainstream and an exhaustive list of all GAN papers is no more feasible or useful. However, I invite other people to continue this effort and reuse my list.
 
 ## Contents
 - [Recommendations](#recommendations)
