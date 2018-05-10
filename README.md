@@ -173,6 +173,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Amortised MAP Inference for Image Super-resolution [[arXiv]](https://arxiv.org/abs/1610.04490)
 - A Novel Approach to Artistic Textual Visualization via GAN [[arXiv]](https://arxiv.org/abs/1710.10553)
 - Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification [[arXiv]](https://arxiv.org/abs/1709.03654)
+- Arbitrary Facial Attribute Editing: Only Change What You Want [[arXiv]](https://arxiv.org/abs/1711.10678) [[Code]](https://github.com/LynnHo/AttGAN-Tensorflow)
 - ARIGAN: Synthetic Arabidopsis Plants using Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1709.00938)
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs [[arXiv]](https://arxiv.org/abs/1702.03410)
 - Artificial Generation of Big Data for Improving Image Classification: A Generative Adversarial Network Approach on SAR Data [[arXiv]](https://arxiv.org/abs/1711.02010)
