@@ -139,6 +139,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Optimizing the Latent Space of Generative Networks [[arXiv]](https://arxiv.org/abs/1707.05776)
 - Parametrizing filters of a CNN with a GAN [[arXiv]](https://arxiv.org/abs/1710.11386)
 - PixelGAN Autoencoders [[arXiv]](https://arxiv.org/abs/1706.00531)
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) [[Code]](https://github.com/tkarras/progressive_growing_of_gans)
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv]](https://arxiv.org/abs/1609.05473)
 - Simple Black-Box Adversarial Perturbations for Deep Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_11.pdf)
