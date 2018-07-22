@@ -41,6 +41,9 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - OpenAI - Generative Models [[Blog]](https://openai.com/blog/generative-models/)
 - SimGANs - a game changer in unsupervised learning, self driving cars, and more [[Blog]](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
 
+# Books
+- GANs in Action: Deep learning with Generative Adversarial Networks [[Book]](https://www.manning.com/books/gans-in-action)
+
 # Videos
 - Generative Adversarial Networks by Ian Goodfellow [[Video]](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 - Tutorial on Generative Adversarial Networks by Mark Chang [[Video]](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU)
