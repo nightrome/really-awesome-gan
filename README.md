@@ -40,6 +40,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - On the intuition behind deep learning & GANs — towards a fundamental understanding [[Blog]](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
 - OpenAI - Generative Models [[Blog]](https://openai.com/blog/generative-models/)
 - SimGANs - a game changer in unsupervised learning, self driving cars, and more [[Blog]](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
+- Deep Diving into GANs: from theory to production (EuroScipy 2018) [[GitHub]](https://github.com/zurutech/gans-from-theory-to-production) 
 
 # Books
 - GANs in Action: Deep learning with Generative Adversarial Networks [[Book]](https://www.manning.com/books/gans-in-action)
@@ -47,6 +48,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 # Videos
 - Generative Adversarial Networks by Ian Goodfellow [[Video]](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 - Tutorial on Generative Adversarial Networks by Mark Chang [[Video]](https://www.youtube.com/playlist?list=PLeeHDpwX2Kj5Ugx6c9EfDLDojuQxnmxmU)
+- Deep Diving into GANs: From Theory to Production (EuroSciPy 2018) by Michele De Simoni, Paolo Galeone [[Video]](https://www.youtube.com/watch?v=CePrdabdtxw) 
 
 # Code
 - Cleverhans: A library for benchmarking vulnerability to adversarial examples [[Code]](https://github.com/openai/cleverhans) [[Blog]](http://cleverhans.io/)
