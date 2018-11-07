@@ -282,6 +282,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.06430)
 - Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[arXiv]](https://arxiv.org/abs/1708.06453)
 - Simultaneously Color-Depth Super-Resolution with Conditional Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1708.09105)
+- SingleGAN: Image-to-Image Translation by a Single-Generator Network using Multiple Generative Adversarial Learning [[arXiv]](https://arxiv.org/abs/1810.04991) [[Code]](https://github.com/Xiaoming-Yu/SingleGAN)
 - Socially-compliant Navigation through Raw Depth Inputs with Generative Adversarial Imitation Learning [[arXiv]](https://arxiv.org/abs/1710.02543)
 - StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.03242)
 - StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1710.10916)
