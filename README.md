@@ -177,6 +177,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Age Progression / Regression by Conditional Adversarial Autoencoder [[arXiv]](https://arxiv.org/abs/1702.08423)
 - AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.01400)
 - Amortised MAP Inference for Image Super-resolution [[arXiv]](https://arxiv.org/abs/1610.04490)
+- Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network [[arXiv]](https://arxiv.org/abs/1811.00344) [[Code]](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw)
 - A Novel Approach to Artistic Textual Visualization via GAN [[arXiv]](https://arxiv.org/abs/1710.10553)
 - Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification [[arXiv]](https://arxiv.org/abs/1709.03654)
 - Arbitrary Facial Attribute Editing: Only Change What You Want [[arXiv]](https://arxiv.org/abs/1711.10678) [[Code]](https://github.com/LynnHo/AttGAN-Tensorflow)
