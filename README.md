@@ -276,6 +276,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - SeGAN: Segmenting and Generating the Invisible [[arXiv]](https://arxiv.org/abs/1703.10239)
 - Semantic Image Inpainting with Deep Generative Models [[arXiv]](https://arxiv.org/abs/1607.07539)
+- EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[arXiv]](https://arxiv.org/abs/1901.00212) [[Code]](https://github.com/knazeri/edge-connect)
 - Semantic Image Synthesis via Adversarial Learning [[arXiv]](https://arxiv.org/abs/1707.06873)
 - Semantic Segmentation using Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08408)
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1705.07904)
