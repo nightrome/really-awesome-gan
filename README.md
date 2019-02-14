@@ -298,6 +298,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Temporal Generative Adversarial Nets with Singular Value Clipping [[arXiv]](https://arxiv.org/abs/1611.06624)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches [[arXiv]](https://arxiv.org/abs/1706.02823)
 - Texture Synthesis with Spatial Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08207v3) [[Code]](https://github.com/ubergmann/spatial_gan)
+- Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language [[arXiv]](https://arxiv.org/abs/1810.11919) [[Code]](https://github.com/woozzu/tagan)
 - The Conditional Analogy GAN: Swapping Fashion Articles on People Images [[arXiv]](https://arxiv.org/abs/1709.04695)
 - Towards Adversarial Retinal Image Synthesis [[arXiv]](https://arxiv.org/abs/1701.08974) [[Code]](https://github.com/costapt/vess2ret) [[Demo]](http://vess2ret.inesctec.pt/retina)
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN [[arXiv]](https://arxiv.org/abs/1703.06029)
