@@ -315,6 +315,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - VIGAN: Missing View Imputation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.06724)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
+- [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
 
 ## Applied Other
 - Adversarial Generation of Natural Language [[arXiv]](https://arxiv.org/abs/1705.10929)
