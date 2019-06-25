@@ -209,6 +209,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Depth Structure Preserving Scene Image Generation [[arXiv]](https://arxiv.org/abs/1706.00212)
 - DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1704.02510) [[Code]](https://github.com/wiseodd/generative-models)
 - Dual Motion GAN for Future-Flow Embedded Video Prediction [[arXiv]](https://arxiv.org/abs/1708.00284)
+- Efficient Super Resolution For Large-Scale Images Using Attentional GAN [[arXiv]](https://arxiv.org/abs/1812.04821) [[Thesis]](https://digitalcommons.wpi.edu/etd-theses/1256/) [[Thesis]](https://www.wpi.edu/news/announcements/data-science-ms-thesis-presentation-xiaozhou-zou)
 - ExprGAN: Facial Expression Editing with Controllable Expression Intensity [[arXiv]](https://arxiv.org/abs/1709.03842)
 - Face Aging With Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.01983)
 - Face Transfer with Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1710.06090)
