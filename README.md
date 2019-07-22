@@ -245,6 +245,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Interactive 3D Modeling with a Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1706.05170)
 - Intraoperative Organ Motion Models with an Ensemble of Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.02255)
 - Invertible Conditional GANs for image editing [[arXiv]](https://arxiv.org/abs/1611.06355) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_8.pdf)
+- Joint Discriminative and Generative Learning for Person Re-identification [[Project]](http://zdzheng.xyz/DG-Net/) [[Paper]](https://arxiv.org/abs/1904.07223) [[YouTube]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [[Bilibili]](https://www.bilibili.com/video/av51439240) [[Poster]](http://zdzheng.xyz/images/DGNet_poster.pdf) [[Code]](https://github.com/NVlabs/DG-Net)
 - Label Denoising Adversarial Network (LDAN) for Inverse Lighting of Face Images [[arXiv]](https://arxiv.org/abs/1709.01993)
 - Learning a Driving Simulator [[arXiv]](https://arxiv.org/abs/1608.01230)
 - Learning a Generative Adversarial Network for High Resolution Artwork Synthesis [[arXiv]](https://arxiv.org/abs/1708.09533)
