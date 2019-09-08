@@ -189,6 +189,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[arXiv]](https://arxiv.org/abs/1707.08037)
 - Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis [[arXiv]](https://arxiv.org/abs/1704.04086)
 - CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms [[arXiv]](https://arxiv.org/abs/1706.07068)
+- CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition [[arXiv]](https://arxiv.org/abs/1811.07441) [[Code]](https://github.com/nschor/CompoNet)
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
 - Conditional Adversarial Network for Semantic Segmentation of Brain Tumor [[arXiv]](https://arxiv.org/abs/1708.05227)
 - Conditional generative adversarial nets for convolutional face generation [[Paper]](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
