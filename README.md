@@ -339,6 +339,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - SSGAN: Secure Steganography Based on Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.01613)
 - Steganographic Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05502)
 - Towards Grounding Conceptual Spaces in Neural Representations [[arXiv]](https://arxiv.org/abs/1706.04825)
+- GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv]] (https://arxiv.org/abs/1803.01229)
 
 ## Humor
 - Stopping GAN Violence: Generative Unadversarial Networks [[arXiv]](https://arxiv.org/abs/1703.02528)
