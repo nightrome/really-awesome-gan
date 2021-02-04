@@ -297,6 +297,8 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches [[arXiv]](https://arxiv.org/abs/1706.02823)
 - Texture Synthesis with Spatial Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08207v3) [[Code]](https://github.com/ubergmann/spatial_gan)
 - The Conditional Analogy GAN: Swapping Fashion Articles on People Images [[arXiv]](https://arxiv.org/abs/1709.04695)
+- TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation [[arXiv]](https://arxiv.org/abs/2007.09084)
+- TopoGAN: A Topology-Aware Generative Adversarial Network [[arXiv]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)
 - Towards Adversarial Retinal Image Synthesis [[arXiv]](https://arxiv.org/abs/1701.08974) [[Code]](https://github.com/costapt/vess2ret) [[Demo]](http://vess2ret.inesctec.pt/retina)
 - Towards Diverse and Natural Image Descriptions via a Conditional GAN [[arXiv]](https://arxiv.org/abs/1703.06029)
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509)
