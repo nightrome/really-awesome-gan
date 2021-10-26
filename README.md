@@ -54,6 +54,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Cleverhans: A library for benchmarking vulnerability to adversarial examples [[Code]](https://github.com/openai/cleverhans) [[Blog]](http://cleverhans.io/)
 - Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [[Blog]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [[Code]](https://github.com/devnag/pytorch-generative-adversarial-networks)
 - Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [[Code]](https://github.com/wiseodd/generative-models)
+- Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [[Blog]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [[Code]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks)
 
 # Papers
 ## Overview
