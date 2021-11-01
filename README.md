@@ -223,6 +223,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data [[arXiv]](https://arxiv.org/abs/1705.04932) [[Code]](https://github.com/Prinsphield/GeneGAN)
 - Generate Identity-Preserving Faces by Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.03227)
 - Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1704.01705)
+- Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [[arXiv]](https://arxiv.org/abs/2110.11191) [[Code]](https://github.com/DegardinBruno/Kinetic-GAN)
 - Generative Adversarial Models for People Attribute Recognition in Surveillance [[arXiv]](https://arxiv.org/abs/1707.02240)
 - Generative Adversarial Network based on Resnet for Conditional Image Restoration [[arxiv]](https://arxiv.org/abs/1707.04881)
 - Generative Adversarial Network-based Synthesis of Visible Faces from Polarimetric Thermal Faces [[arXiv]](https://arxiv.org/abs/1708.02681)
