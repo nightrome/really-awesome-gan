@@ -100,8 +100,8 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Dualing GANs [[arXiv]](https://arxiv.org/abs/1706.06216)
 - Deep and Hierarchical Implicit Models [[arXiv]](https://arxiv.org/abs/1702.08896)
 - Energy-based Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1609.03126) [[Code]](https://github.com/wiseodd/generative-models)
-- Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [[Paper](https://ieeexplore.ieee.org/document/10732016)] [[Code](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS-GAN)] [[Website](https://prasannapulakurthi.github.io/MMD-PMish-NAS-GAN/)] [[YouTube](https://youtu.be/yejnLOO2VaI)] [[Demo](https://huggingface.co/spaces/prasannareddyp/MMD-PMish-NAS-GAN)]
-- Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition [[Paper](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf)] [[Code](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS-GAN)]
+- Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [[Paper]](https://ieeexplore.ieee.org/document/10732016) [[Code]](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS-GAN) [[Website]](https://prasannapulakurthi.github.io/MMD-PMish-NAS-GAN/) [[YouTube]](https://youtu.be/yejnLOO2VaI) [[Demo]](https://huggingface.co/spaces/prasannareddyp/MMD-PMish-NAS-GAN)
+- Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition [[Paper]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf) [[Code]](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS-GAN)
 - Explaining and Harnessing Adversarial Examples [[arXiv]](https://arxiv.org/abs/1412.6572)
 - Flow-GAN: Bridging implicit and prescribed learning in generative models [[arXiv]](https://arxiv.org/abs/1705.08868)
 - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [[arXiv]](https://arxiv.org/abs/1606.00709) [[Code]](https://github.com/wiseodd/generative-models)
