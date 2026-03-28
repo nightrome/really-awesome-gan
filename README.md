@@ -353,3 +353,6 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Humor
 - Stopping GAN Violence: Generative Unadversarial Networks [[arXiv]](https://arxiv.org/abs/1703.02528)
+
+
+- TabGAN: Synthetic tabular data generation library using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics. [Code](https://github.com/Diyago/Tabular-data-generation) [Paper](https://arxiv.org/abs/2010.00638)
